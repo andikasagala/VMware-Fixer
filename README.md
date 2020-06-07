@@ -25,6 +25,7 @@ $sh fixer.sh <br><br><br>
 
 <h4>Compactible Unix list:</h4> 
 - Fedora<br>
+- Parrot OS
 - Debian ( coming soon )<br>
 - Ubuntu ( coming soon )<br>
 - MX Linux ( coming soon )<br>
@@ -34,7 +35,16 @@ $sh fixer.sh <br><br><br>
 - Solus ( coming soon )<br>
 - Zorin ( coming soon )<br>
 - deepin ( coming soon )<br>
-
+- KDE neon ( coming soon )<br>
+- antiX ( coming soon )<br>
+- Pop!_OS ( coming soon )<br>
+- openSUSE ( coming soon )<br>
+- CentOS ( coming soon )<br>
+- PCLinuxOS ( coming soon )<br>
+- Arch ( coming soon )<br>
+- ArcoLinux ( coming soon )<br>
+- Kali ( coming soon )<br>
+- Puppy ( coming soon )<br>
 
 
 
