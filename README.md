@@ -25,6 +25,15 @@ $sh fixer.sh <br><br><br>
 
 <h4>Compactible Unix list:</h4> 
 - Fedora<br>
+- Debian ( coming soon )<br>
+- Ubuntu ( coming soon )<br>
+- MX Linux ( coming soon )<br>
+- Manjaro ( coming soon )<br>
+- Mint ( coming soon )<br>
+- elementary ( coming soon )<br>
+- Solus ( coming soon )<br>
+- Zorin ( coming soon )<br>
+- deepin ( coming soon )<br>
 
 
 
