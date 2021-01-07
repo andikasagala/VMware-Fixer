@@ -8,8 +8,8 @@
 Coder: Andika Sagala ( Andy Charles Poenas ) <br>
 Date: Oct, 2019<br>
 </b>
-   
-
+   <br>
+<b>Version 0.01a </b><br><br>
 VMware fixer is one of unix tool which fix your VMware Workstation error. The VMware Fixer is free and open source. You can rewrite it later into another programming language nor with your own thinking logic later.<br><br><br>
 
 If you often using VMware Workstation, then you are trying new os ( ie: Fedora ), use this script. After that, try to learn Fedora Virtualization and leave the VMware Workstation. Else, perhap this script gonna fix your new installed VMware Workstation.
