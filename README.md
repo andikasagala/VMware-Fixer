@@ -5,7 +5,7 @@
                                          
                                          
  <b>                                       
-Coder: Andika Sagala ( Andy Charles Poenas ) <br>
+Coder: Andi Sagala ( Andy Charles Poenas ) <br>
 Date: Oct, 2019<br>
 </b>
    <br>
